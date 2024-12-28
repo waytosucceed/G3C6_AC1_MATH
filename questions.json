@@ -1,0 +1,9 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Skip count by 10s and fill in the missing numbers.",
+    "options":["12","","32","","52","","72"],
+    "answers": ["12","22","32","42","52","62","72"],
+    "secondImg":"./images/2.jpg"
+  }
+]

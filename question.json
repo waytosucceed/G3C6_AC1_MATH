@@ -1,0 +1,13 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Skip count by 10s and find the total flowers.<br><img width='55%' src='./images/1.png'>",
+        "options": [
+            "20",
+            "30",
+            "40",
+            "10"
+        ],
+        "correct": 1
+    }
+]
